@@ -66,5 +66,7 @@
    ```bash
    pip install ucimlrepo shap lime lightgbm imbalanced-learn scikit-learn pandas numpy matplotlib seaborn joblib
 
-   รันสคริปต์ตรวจสอบค่าสถิติเพิ่มเติม:
-   python supplementary_checks.py
+
+
+## รันสคริปต์ตรวจสอบค่าสถิติเพิ่มเติม:
+    python supplementary_checks.py
